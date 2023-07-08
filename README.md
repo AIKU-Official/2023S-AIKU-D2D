@@ -42,7 +42,9 @@
 More information is available at [curriculum.pdf](curriculum.pdf).
 
 ## References
-
+- [2023W AIKU DeepIntoDeep](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp)
+- [Stanford cs231n](http://cs231n.stanford.edu/)
+  
 ## License
 
 <img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
