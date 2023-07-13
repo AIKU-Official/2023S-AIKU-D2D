@@ -8,7 +8,7 @@
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/1.%20Machine%20Learning%20and%20MLP.pdf)
 - **2. Convolutional Neural Networks** - [Donghwan Chi](https://github.com/zheedong)
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/2.%20Convolutional%20Neural%20Networks.pdf)
-- [**Assignment #1**](https://github.com/AIKU-Official/1-hello-pytorch-hello-cnn-hijihyo)
+- [**Assignment #1 - Hello PyTorch, Hello CNN!**](https://github.com/AIKU-Official/1-hello-pytorch-hello-cnn-hijihyo)
 - **3. Recurrent Neural Networks** - [Minseong Kim](https://github.com/mingsung-k)
   - [[slides]]()
 - **4. Transformers** - [Minseong Kim](https://github.com/mingsung-k)
