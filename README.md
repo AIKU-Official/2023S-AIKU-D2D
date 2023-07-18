@@ -10,7 +10,7 @@
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/2.%20Convolutional%20Neural%20Networks.pdf)
 - [**Assignment #1 - Hello PyTorch, Hello CNN!**](https://github.com/AIKU-Official/1-hello-pytorch-hello-cnn-hijihyo)
 - **3. Recurrent Neural Networks** - [Minseong Kim](https://github.com/mingsung-k)
-  - [[slides]]()
+  - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/3.%20Recurrent%20Neural%20Networks.pdf)
 - **4. Transformers** - [Minseong Kim](https://github.com/mingsung-k)
   - [[slides]]()
 - **5. Applications of Transformers** - [Minseong Bae](https://github.com/KyleBae1017)
