@@ -14,7 +14,7 @@
 - **4. Attention \& Transformer** - [Minseong Kim](https://github.com/mingsung-k)
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/4.%20Attention%20%26%20Transformer.pdf)
 - **5. Applications of Transformer** - [Minseong Bae](https://github.com/KyleBae1017)
-  - [[slides]]()
+  - [[slides (Google Drive)]](https://drive.google.com/file/d/1WKNwkSiqVhyDKb90b8RrsrRU6BLQZb4M/view?usp=sharing)
 - [**Assignment #2**]()
 - **6. Techniques for Training Neural Networks** - [Seongchan Kim](https://github.com/deep-overflow)
   - [[slides]]()
