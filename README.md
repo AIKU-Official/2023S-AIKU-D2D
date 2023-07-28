@@ -17,7 +17,7 @@
   - [[slides (Google Drive)]](https://drive.google.com/file/d/1WKNwkSiqVhyDKb90b8RrsrRU6BLQZb4M/view?usp=sharing)
 - [**Assignment #2**]()
 - **6. Techniques for Training Neural Networks** - [Seongchan Kim](https://github.com/deep-overflow)
-  - [[slides]]()
+  - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/6.%20Techniques%20for%20Training%20Neural%20Networks.pdf)
 - **7. CV Focus I : Object Detection** - [Minseong Bae](https://github.com/KyleBae1017)
   - [[slides]]()
 - **8. CV Focus I : Image Segmentation** - [Seunghyun Kim](https://github.com/hijihyo)
