@@ -43,7 +43,9 @@ More information is available at [curriculum.pdf](curriculum.pdf).
 ## References
 - [2023W AIKU DeepIntoDeep](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp)
 - [Stanford cs231n](http://cs231n.stanford.edu/)
-- [Stanford cs224n](https://web.stanford.edu/class/cs224n/) 
+- [Stanford cs224n](https://web.stanford.edu/class/cs224n/)
+- [UMich EECS 498.008 / 598.008 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
+  
 ## License
 
 <img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
