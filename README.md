@@ -3,6 +3,10 @@
 
 2023S-AIKU-D2D is the material (lecture notes, exercises and assignments) repository for **2023 Summer DeepintoDeep (D2D)**, a deep learning bootcamp for juniors learning and experiencing various deep learning topics and its applications with PyTorch at AIKU.
 
+## Updates
+
+**[2023/07/28]** Slides for **Lecture 1 ~ 6** are uploaded. **Assignment 1 ~ 2** are uploaded.
+
 ## Contents
 - **1. Machine Learning and Multi-layer Perceptrons** - [Donghwan Chi](https://github.com/zheedong)
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/1.%20Machine%20Learning%20and%20MLP.pdf)
@@ -15,7 +19,7 @@
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/4.%20Attention%20%26%20Transformer.pdf)
 - **5. Applications of Transformer** - [Minseong Bae](https://github.com/KyleBae1017)
   - [[slides (Google Drive)]](https://drive.google.com/file/d/1WKNwkSiqVhyDKb90b8RrsrRU6BLQZb4M/view?usp=sharing)
-- [**Assignment #2**]()
+- [**Assignment #2 - Naver Movie Review Sentiment Analysis w/ Transformer**](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Assignments/2.%20Transformer%2C%20Naver%20Movie%20Review%20Sentiment%20Analysis.ipynb)
 - **6. Techniques for Training Neural Networks** - [Seongchan Kim](https://github.com/deep-overflow)
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/6.%20Techniques%20for%20Training%20Neural%20Networks.pdf)
 - **7. CV Focus I : Object Detection** - [Minseong Bae](https://github.com/KyleBae1017)
