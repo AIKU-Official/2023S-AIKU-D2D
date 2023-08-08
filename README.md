@@ -4,7 +4,7 @@
 2023S-AIKU-D2D is the material (lecture notes, exercises and assignments) repository for **2023 Summer DeepintoDeep (D2D)**, a deep learning bootcamp for juniors learning and experiencing various deep learning topics and its applications with PyTorch at AIKU.
 
 ## Updates
-**[2023/08/08]** Slides for **Lecture 7 ~ 9** are uploades. **Assignment 3** is uploaded. Now we provide links for lecture videos.
+**[2023/08/08]** Slides for **Lecture 7 ~ 9** are uploaded. **Assignment 3** is uploaded. Now we provide links for lecture videos.  
 **[2023/07/28]** Slides for **Lecture 1 ~ 6** are uploaded. **Assignment 1 ~ 2** are uploaded.
 
 ## Contents
