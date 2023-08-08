@@ -27,7 +27,7 @@
 - **8. CV Focus I : Image Segmentation** - [Seunghyun Kim](https://github.com/hijihyo)
   - [[slides]]()
 - [**Assignment #3**]()
-- **9. NLP Focus I :More about Transformers and Pretraining** - [Hyejin Jo](https://github.com/HyezNee)
+- **9. NLP Focus I : More about Transformers and Pretraining** - [Hyejin Jo](https://github.com/HyezNee)
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/9.%20More%20about%20Transformers%20and%20Pretraining.pdf)
 - **10. NLP Focus I : Summarization and Retrieval** - [Hyejin Jo](https://github.com/HyezNee)
   - [[slides]]()
