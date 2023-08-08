@@ -29,7 +29,7 @@
 - [**Assignment #3**]()
 - **9. NLP Focus I : More about Transformers and Pretraining** - [Hyejin Jo](https://github.com/HyezNee)
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/9.%20More%20about%20Transformers%20and%20Pretraining.pdf)
-- **10. NLP Focus I : Summarization and Retrieval** - [Hyejin Jo](https://github.com/HyezNee)
+- **10. NLP Focus I : Various NLP Tasks (QA, Retrieval, etc.)** - [Hyejin Jo](https://github.com/HyezNee)
   - [[slides]]()
 - [**Assignment #4**]()
 - **11. CV Focus II : 3D Vision** - [Minseong Bae](https://github.com/KyleBae1017)
@@ -42,7 +42,7 @@
   - [[slides]]()
 - [**Assignment #5**]()
  
-More information is available at [curriculum.pdf](curriculum.pdf).
+More information is available at [curriculum.pdf](curriculum_v2.pdf).
 
 ## References
 - [2023W AIKU DeepIntoDeep](https://github.com/ONground-Korea/2023-AIKU_DeepLearning-Bootcamp)
