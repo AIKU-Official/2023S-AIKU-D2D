@@ -67,8 +67,6 @@ More information is available at [curriculum.pdf](curriculum_v2.pdf).
   
 ## License
 
-<img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
-
 The class is licensed under the [MIT License](http://opensource.org/licenses/MIT):
 
 Copyright &copy; 2023 [AIKU](https://github.com/AIKU-Official).
