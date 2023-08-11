@@ -42,7 +42,7 @@
 - **10. NLP Focus I : Various NLP Tasks (QA, Retrieval, etc.)** - [Hyejin Jo](https://github.com/HyezNee)
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/10.%20Various%20NLP%20Tasks.pdf)
   - [[videos]]()
-- [**Assignment #4 - Korean Question answering & generation**](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Assignments/4.%20Korean%20Question%20Answering%20%26%20Generation.ipynb)
+- [**Assignment #4 - Korean Question Answering & Generation**](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Assignments/4.%20Korean%20Question%20Answering%20%26%20Generation.ipynb)
 - **11. CV Focus II : Generative Models** - [Seunghyun Kim](https://github.com/hijihyo)
   - [[slides]]()
   - [[videos]]()
