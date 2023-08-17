@@ -47,7 +47,7 @@
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/11.%20Image%20Generation.pdf)
   - [[videos]](https://www.youtube.com/watch?v=DbPEVBmHvdk&t=2s)
 - **12. CV Focus II : 3D Vision** - [Minseong Bae](https://github.com/KyleBae1017)
-  - [[slides]](https://drive.google.com/file/d/1LG3de1gez4VpDA9Q8NHJN0_hg97rX__i/view?usp=sharing)
+  - [[slides]](https://drive.google.com/file/d/1hjDBIgZBx1b1_DvSCuSfKmOM_NDcKrum/view?usp=sharing)
   - [[videos]]()
 - **13. NLP Focus II : Generative Models** - [Soobin Park](https://github.com/subin9)
   - [[slides]]()
