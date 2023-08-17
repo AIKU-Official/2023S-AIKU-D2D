@@ -44,7 +44,7 @@
   - [[videos]](https://www.youtube.com/watch?v=Lhjp4W2f1HE&t=1362s)
 - [**Assignment #4 - Korean Question Answering & Generation**](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Assignments/4.%20Korean%20Question%20Answering%20%26%20Generation%20(new).ipynb)
 - **11. CV Focus II : Generative Models** - [Seunghyun Kim](https://github.com/hijihyo)
-  - [[slides]]()
+  - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/11.%20Image%20Generation.pdf)
   - [[videos]](https://www.youtube.com/watch?v=DbPEVBmHvdk&t=2s)
 - **12. CV Focus II : 3D Vision** - [Minseong Bae](https://github.com/KyleBae1017)
   - [[slides]]()
