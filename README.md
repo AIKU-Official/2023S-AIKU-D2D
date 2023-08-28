@@ -55,7 +55,9 @@
 - **14. NLP Focus II : Large Language Models** - [Soobin Park](https://github.com/subin9)
   - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/14.%20LLM.pdf)
   - [[videos]](https://www.youtube.com/watch?v=rp3x2MbGe5k&t=1282s)
-- [**Assignment #5**]()
+- **Assignment #5 - Toy Project**
+  - [[Example Project 1 - NLP]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Assignments/a5_example1.ipynb)
+  - [[Example Project 2 - CV]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Assignments/a5_example2.ipynb)
  
 More information is available at [curriculum.pdf](curriculum_v2.pdf).
 
