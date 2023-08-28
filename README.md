@@ -48,13 +48,13 @@
   - [[videos]](https://www.youtube.com/watch?v=DbPEVBmHvdk&t=2s)
 - **12. CV Focus II : 3D Vision** - [Minseong Bae](https://github.com/KyleBae1017)
   - [[slides]](https://drive.google.com/file/d/1hjDBIgZBx1b1_DvSCuSfKmOM_NDcKrum/view?usp=sharing)
-  - [[videos]]()
+  - [[videos]](https://www.youtube.com/watch?v=cQvk03qRyAg)
 - **13. NLP Focus II : Generative Models** - [Soobin Park](https://github.com/subin9)
-  - [[slides]]()
-  - [[videos]]()
+  - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/13.Generative%20models%20in%20NLP.pdf)
+  - [[videos]](https://www.youtube.com/watch?v=i_5CXgKEO8M)
 - **14. NLP Focus II : Large Language Models** - [Soobin Park](https://github.com/subin9)
-  - [[slides]]()
-  - [[videos]]()
+  - [[slides]](https://github.com/AIKU-Official/2023S-AIKU-D2D/blob/main/Lectures/14.%20LLM.pdf)
+  - [[videos]](https://www.youtube.com/watch?v=rp3x2MbGe5k&t=1282s)
 - [**Assignment #5**]()
  
 More information is available at [curriculum.pdf](curriculum_v2.pdf).
